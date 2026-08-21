@@ -1,0 +1,5 @@
+- Most successful IPL team of all time
+- Whether toss winner wins more often
+- All-time top run scorer and wicket taker
+- Best economy bowlers
+- Highest scoring season in IPL history
