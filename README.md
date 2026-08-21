@@ -8,6 +8,12 @@ Analysis on past years' IPL data with help of complex SQL queries, visualized th
 - Suggest teams or players a company should endorse for its products.
 
 
+
+## Data set link:
+https://bit.ly/34SRn3b
+
+
+
 ## Loading dataset to SQL Database:
 - There are two method we can upload the data 1) from table wizard 2) from cmd prompt 
 - Here I have used "import table wizard" to import data.
